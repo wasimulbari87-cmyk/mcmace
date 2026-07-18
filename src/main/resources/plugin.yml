@@ -1,0 +1,9 @@
+name: MacePatch
+version: 1.0.0
+main: dev.wasixarthex.macepatch.MacePatch
+api-version: "1.26"
+description: Fixes Mace smash attack damage for Bedrock players via Geyser/Floodgate
+author: WasixArthex
+softdepend:
+  - floodgate
+  - Geyser-Spigot
