@@ -1,0 +1,6 @@
+min-fall-height: 1.5
+damage-per-block: 4.0
+max-bonus-damage: 150.0
+fall-track-ticks: 60
+density-bonus-per-level: 1.0
+debug: false
